@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpTrack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b07c876edb2af19bcfb7f0d2292f2d919e5ad09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b72560de072d9e753c8857fa6e862e1ce950919d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpTrack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpTrack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
